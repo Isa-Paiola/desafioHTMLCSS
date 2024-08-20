@@ -1,0 +1,16 @@
+/* Adicionando cores na tabela */
+h1{
+    color: midnightblue;
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(169, 208, 232);
+    text-align: center;
+}
+
+.blue{
+    background-color: lightskyblue;
+}
+
+.blue{
+    background-color: lightskyblue;
+}
